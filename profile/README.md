@@ -1,5 +1,15 @@
 # MoDo - 목표 기반 todo 서비스
 
+<div align="center">
+
+### 📋 프로젝트 진행 상황 보기
+
+<a href="https://github.com/orgs/MoDo-project/projects/1">
+  <img src="https://img.shields.io/badge/GitHub_Project_Board-Check_Our_Progress-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=2D3748" width="400" height="60"/>
+</a>
+
+</div>
+
 ## 📦 Repositories
 
 <div align="center">
